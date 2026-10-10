@@ -1,0 +1,6 @@
+{
+  "name": "The Fresh Laundry – Layanan Laundry Premium & Pelacakan Pesanan Digital",
+  "description": "Platform pemesanan laundry profesional dengan pelacakan status waktu nyata, harga transparan, portal pelanggan, dan manajemen operasional admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
